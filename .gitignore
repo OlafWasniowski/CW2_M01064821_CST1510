@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc 
+.env
+.vscode/
+.idea/
+.venv/
+user.txt
+cyber_incidents
+datasets_metadata.csv
+it_tickets.csv
